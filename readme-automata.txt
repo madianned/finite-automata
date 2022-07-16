@@ -3,7 +3,6 @@ contains the tuple that represents a DFA, where Q is the set of states, E is the
 q is the initial state, F is the set of final states, and D is the set of transition 
 functions as shown in the example below:
 
-
 Q={q0,q1,q2,q3,q4,q5}
 E={0,1}
 q={q0}
